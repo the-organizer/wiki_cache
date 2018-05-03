@@ -1,6 +1,7 @@
 # SH-PWS3
 
 Buck-Booster Details:
+
 * Module Name : 150W boost constant current module
 * Module Properties: non-isolated step-up module (BOOST)
 * Input voltage : 10-32V input
@@ -9,6 +10,7 @@ Buck-Booster Details:
 * Output voltage : 10-46V continuously adjustable ( the default output 19V, the treasurer For other voltages please explain . )
 * 10-46V fixed output (see the treasurer required voltage )
 * Optional output 10-60V adjustable output module , please leave a message after photographed require the same price.
+
 * Default shipping is 10-46V adjustable output
 * Output Current : 8A MAX than 4A please enhance heat dissipation ( input, output pressure related , the greater the pressure the smaller the output current )
 * Output current range : 0.3-8A
