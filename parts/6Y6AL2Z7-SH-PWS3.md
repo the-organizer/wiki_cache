@@ -1,63 +1,46 @@
 # SH-PWS3
 
 Buck-Booster Details:
-Module parameters:
+*Module Name : 150W boost constant current module
+*Module Properties: non-isolated step-up module (BOOST)
+*Input voltage : 10-32V input
 
-Module Name : 150W boost constant current module
+*Input Current : 16A (MAX) exceeds 8A please enhance heat dissipation
 
-Module Properties: non-isolated step-up module (BOOST)
+*Quiescent current : 15mA (12V liter 20V , the output voltage , the higher the current will increase too quiet )
 
-Input voltage : 10-32V input
+*Output voltage : 10-46V continuously adjustable ( the default output 19V, the treasurer For other voltages please explain . )
 
-Input Current : 16A (MAX) exceeds 8A please enhance heat dissipation
+*10-46V fixed output (see the treasurer required voltage )
 
-Quiescent current : 15mA (12V liter 20V , the output voltage , the higher the current will increase too quiet )
+*Optional output 10-60V adjustable output module , please leave a message after photographed require the same price.
 
-Output voltage : 10-46V continuously adjustable ( the default output 19V, the treasurer For other voltages please explain . )
+*Default shipping is 10-46V adjustable output
 
-10-46V fixed output (see the treasurer required voltage )
+*Output Current : 8A MAX than 4A please enhance heat dissipation ( input, output pressure related , the greater the pressure the smaller the output current )
 
-Optional output 10-60V adjustable output module , please leave a message after photographed require the same price.
+*Output current range : 0.3-8A
 
-Default shipping is 10-46V adjustable output
+*Turn lights adjustment range : 0.3-8A
 
-Output Current : 8A MAX than 4A please enhance heat dissipation ( input, output pressure related , the greater the pressure the smaller the output current )
+*Output power: natural cooling 90W, enhance heat dissipation 150W
 
-Output current range : 0.3-8A
+*Working temperature: -40 to + 85 degrees (ambient temperature is too high , please enhance heat dissipation )
 
-Turn lights adjustment range : 0.3-8A
+*Operating frequency : 150KHz
 
-Output power: natural cooling 90W, enhance heat dissipation 150W
+*Conversion efficiency: up to 95% (efficiency and input and output voltage , current, pressure related)
 
-Working temperature: -40 to + 85 degrees (ambient temperature is too high , please enhance heat dissipation )
+*Short circuit protection: Yes ( input 15A fuse )
 
-Operating frequency : 150KHz
+*Input reverse polarity protection : None, ( if necessary, please enter the string into the diode )
 
-Conversion efficiency: up to 95% (efficiency and input and output voltage , current, pressure related)
+*Installation: four 3mm screws
 
-Short circuit protection: Yes ( input 15A fuse )
+*Connection: solderless terminals output with shell welding output . (V-IN is input , V-OUT output )
 
-Input reverse polarity protection : None, ( if necessary, please enter the string into the diode )
+*Module dimensions:  60mm x 50mm x 20mm
 
-Installation: four 3mm screws
-
-Connection: solderless terminals output with shell welding output . (V-IN is input , V-OUT output )
-
-Module dimensions: length 60mm width 50mm height 20mm
-
-Applications:
-
-1, DIY a power supply, input 12V can be output can 12-46V / 60V adjustable.
-
-2 , the power supply for your electronic device , according to your system can set the output voltage value .
-
-3 , as the vehicle power supply for your laptop , PDA or digital products supply. An optional high-grade brushed aluminum alloy shell thickening , direct PK off the market average vehicle power supply or inverter , the metal texture is like your best choice .
-
-4, DIY a laptop mobile power supply: 12V coupled with a large -capacity lithium battery pack , so your books will be turned on where they go .
-
- 
-
-5 , solar panel regulator .
 
 6 , to the battery , lithium battery charging.
 
