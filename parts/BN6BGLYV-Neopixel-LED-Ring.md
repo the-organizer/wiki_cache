@@ -7,4 +7,4 @@ Product Specification:
 4. Quantity:93LEDs
 5. LED Chip:WS2812B SMD5050 RGB chip
 6. Communication interface:Single-wire communication
-7.Connection:VCC:RED, DAT:GREEN, GND:WHITE
+7.Connect ion:VCC:RED, DAT:GREEN, GND:WHITE
