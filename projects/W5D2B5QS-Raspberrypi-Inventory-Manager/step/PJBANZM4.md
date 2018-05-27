@@ -17,7 +17,7 @@ The outcome of this is a tool to help capture and organize the parts in a garage
 - Connect the display, camera and keyboard to the Rasberry Pi
 - Successfully boot to the desktop and connect to the network.
 
-
+h
 
 
 
