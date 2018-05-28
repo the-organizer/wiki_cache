@@ -1,6 +1,7 @@
 ## Neopixel Ring
 
 Product Specification:
+
  1. Product name:WS2812B led pixel ring light
  2. Voltage:DC5V
  3. Power:0.3W/pcs
